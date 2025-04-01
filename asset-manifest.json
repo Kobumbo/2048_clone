@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2048_clone/static/css/main.7759ca01.css",
+    "main.js": "/2048_clone/static/js/main.f63ad3d1.js",
+    "index.html": "/2048_clone/index.html",
+    "main.7759ca01.css.map": "/2048_clone/static/css/main.7759ca01.css.map",
+    "main.f63ad3d1.js.map": "/2048_clone/static/js/main.f63ad3d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7759ca01.css",
+    "static/js/main.f63ad3d1.js"
+  ]
+}
