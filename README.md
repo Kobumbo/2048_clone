@@ -1,7 +1,6 @@
-# 🧠 2048 Clone — React Edition
+# 🧠 2048 Clone
 
 A polished and responsive clone of the popular 2048 game built using **React**. Supports keyboard controls, animated tile merges, and a persistent high score!
-
 
 ---
 
@@ -76,9 +75,14 @@ The app will open at [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🙌 Credits
+## 📸 Screenshots
 
-Inspired by the original [2048 game by Gabriele Cirulli](https://gabrielecirulli.github.io/2048/).
+<p align="center">
+  <img src="https://github.com/Kobumbo/images/blob/main/2048_clone/1.png?raw=true" alt="Game Image" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Kobumbo/images/blob/main/2048_clone/2.png?raw=true" alt="Game End Image" width="400"/>
+</p>
 
 ---
 
@@ -90,6 +94,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ### 📬 Feedback & Contributions Welcome!
 
-If you find a bug or want to suggest a feature, feel free to [open an issue](https://github.com/yourusername/2048-react-clone/issues) or submit a pull request!
+If you find a bug or want to suggest a feature, feel free to [open an issue](https://github.com/kobumbo/2048_clone/issues) or submit a pull request!
 
 ---
+
+## 🙌 Credits
+
+Inspired by the original [2048 game by Gabriele Cirulli](https://gabrielecirulli.github.io/2048/).  
+Built with ❤️ by Bartłomiej Janota
