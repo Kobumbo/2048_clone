@@ -26,6 +26,10 @@ A polished and responsive clone of the popular 2048 game built using **React**. 
 
 ## 🚀 Getting Started
 
+### ▶️ [**Play the Game Online!**](https://kobumbo.github.io/2048_clone/)
+
+ or
+
 ### 1. Clone the repository
 
 ```bash
